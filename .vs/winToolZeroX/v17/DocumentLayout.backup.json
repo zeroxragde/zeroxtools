@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\zeroxtools\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7F492D-8C6C-48CC-BB53-6BE8AA49D7B5}|winToolZeroX\\winToolZeroX.csproj|c:\\users\\ecarrizales\\edgar\\app\\git\\zeroxtools\\wintoolzerox\\conversorwebtopng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E7F492D-8C6C-48CC-BB53-6BE8AA49D7B5}|winToolZeroX\\winToolZeroX.csproj|solutionrelative:wintoolzerox\\conversorwebtopng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7F492D-8C6C-48CC-BB53-6BE8AA49D7B5}|winToolZeroX\\winToolZeroX.csproj|c:\\users\\ecarrizales\\edgar\\app\\git\\zeroxtools\\wintoolzerox\\conversorwebtopng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E7F492D-8C6C-48CC-BB53-6BE8AA49D7B5}|winToolZeroX\\winToolZeroX.csproj|solutionrelative:wintoolzerox\\conversorwebtopng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConversorWEBToPNG.cs",
+              "DocumentMoniker": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\zeroxtools\\winToolZeroX\\ConversorWEBToPNG.cs",
+              "RelativeDocumentMoniker": "winToolZeroX\\ConversorWEBToPNG.cs",
+              "ToolTip": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\zeroxtools\\winToolZeroX\\ConversorWEBToPNG.cs*",
+              "RelativeToolTip": "winToolZeroX\\ConversorWEBToPNG.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:44:12.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConversorWEBToPNG.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\zeroxtools\\winToolZeroX\\ConversorWEBToPNG.cs",
+              "RelativeDocumentMoniker": "winToolZeroX\\ConversorWEBToPNG.cs",
+              "ToolTip": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\zeroxtools\\winToolZeroX\\ConversorWEBToPNG.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "winToolZeroX\\ConversorWEBToPNG.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:01:28.005Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

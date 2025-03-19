@@ -14,11 +14,12 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("winToolZeroX")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d310581720070c039ca3bb1cb724be3ac40f9d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac469ab30328da21e70444570a1210a91dbbf97b")]
 [assembly: System.Reflection.AssemblyProductAttribute("winToolZeroX")]
 [assembly: System.Reflection.AssemblyTitleAttribute("winToolZeroX")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 
-// Generado por l
+// Generado por la clase WriteCodeFragment de MSBuild.
+

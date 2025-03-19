@@ -31,6 +31,72 @@
           }
         }
       },
+      "Magick.NET-Q8-AnyCPU/14.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Magick.NET.Core": "14.5.0"
+        },
+        "compile": {
+          "lib/net8.0/Magick.NET-Q8-AnyCPU.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Magick.NET-Q8-AnyCPU.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netstandard20/Magick.NET-Q8-AnyCPU.targets": {}
+        },
+        "runtimeTargets": {
+          "runtimes/linux-arm64/native/Magick.Native-Q8-arm64.dll.so": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-musl-x64/native/Magick.Native-Q8-x64.dll.so": {
+            "assetType": "native",
+            "rid": "linux-musl-x64"
+          },
+          "runtimes/linux-x64/native/Magick.Native-Q8-x64.dll.so": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/osx-arm64/native/Magick.Native-Q8-arm64.dll.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-x64/native/Magick.Native-Q8-x64.dll.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/win-arm64/native/Magick.Native-Q8-arm64.dll": {
+            "assetType": "native",
+            "rid": "win-arm64"
+          },
+          "runtimes/win-x64/native/Magick.Native-Q8-x64.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x86/native/Magick.Native-Q8-x86.dll": {
+            "assetType": "native",
+            "rid": "win-x86"
+          }
+        }
+      },
+      "Magick.NET.Core/14.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Magick.NET.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Magick.NET.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Bcl.AsyncInterfaces/9.0.0": {
         "type": "package",
         "compile": {
@@ -46,6 +112,22 @@
         "build": {
           "buildTransitive/net8.0/_._": {}
         }
+      },
+      "ReaLTaiizor/3.8.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0-windows7.0/ReaLTaiizor.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0-windows7.0/ReaLTaiizor.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
       },
       "System.IO.Pipelines/9.0.0": {
         "type": "package",
@@ -222,6 +304,55 @@
         "lib/netstandard2.1/CliWrap.xml"
       ]
     },
+    "Magick.NET-Q8-AnyCPU/14.5.0": {
+      "sha512": "F91Ag60AfuQM8e4/y2jzOxc+L05XDcjcoWBETNaWurIlR/jhSPjP9xUC/sFRdxmVD6K8xXJaI7GRYH8En/DEgQ==",
+      "type": "package",
+      "path": "magick.net-q8-anycpu/14.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Magick.NET.icon.png",
+        "Notice.linux-musl.txt",
+        "Notice.linux.txt",
+        "Notice.osx.txt",
+        "Notice.win.txt",
+        "build/netstandard20/Magick.NET-Q8-AnyCPU.targets",
+        "buildTransitive/netstandard20/Magick.NET-Q8-AnyCPU.targets",
+        "docs/Readme.md",
+        "lib/net8.0/Magick.NET-Q8-AnyCPU.dll",
+        "lib/net8.0/Magick.NET-Q8-AnyCPU.xml",
+        "lib/netstandard20/Magick.NET-Q8-AnyCPU.dll",
+        "lib/netstandard20/Magick.NET-Q8-AnyCPU.xml",
+        "magick.net-q8-anycpu.14.5.0.nupkg.sha512",
+        "magick.net-q8-anycpu.nuspec",
+        "runtimes/linux-arm64/native/Magick.Native-Q8-arm64.dll.so",
+        "runtimes/linux-musl-x64/native/Magick.Native-Q8-x64.dll.so",
+        "runtimes/linux-x64/native/Magick.Native-Q8-x64.dll.so",
+        "runtimes/osx-arm64/native/Magick.Native-Q8-arm64.dll.dylib",
+        "runtimes/osx-x64/native/Magick.Native-Q8-x64.dll.dylib",
+        "runtimes/win-arm64/native/Magick.Native-Q8-arm64.dll",
+        "runtimes/win-x64/native/Magick.Native-Q8-x64.dll",
+        "runtimes/win-x86/native/Magick.Native-Q8-x86.dll"
+      ]
+    },
+    "Magick.NET.Core/14.5.0": {
+      "sha512": "X2BeWMkSTQeqIR+dSPhr3Wh0CWvhqpL8vRa7hK8YQRQo+qG97/P+pldmEMStemccSWUe3Y88VhxfjQ5CCp2YtQ==",
+      "type": "package",
+      "path": "magick.net.core/14.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Copyright.txt",
+        "Magick.NET.icon.png",
+        "docs/Readme.md",
+        "lib/net8.0/Magick.NET.Core.dll",
+        "lib/net8.0/Magick.NET.Core.xml",
+        "lib/netstandard20/Magick.NET.Core.dll",
+        "lib/netstandard20/Magick.NET.Core.xml",
+        "magick.net.core.14.5.0.nupkg.sha512",
+        "magick.net.core.nuspec"
+      ]
+    },
     "Microsoft.Bcl.AsyncInterfaces/9.0.0": {
       "sha512": "owmu2Cr3IQ8yQiBleBHlGk8dSQ12oaF2e7TpzwJKEl4m84kkZJjEY1n33L67Y3zM5jPOjmmbdHjbfiL0RqcMRQ==",
       "type": "package",
@@ -246,6 +377,34 @@
         "microsoft.bcl.asyncinterfaces.9.0.0.nupkg.sha512",
         "microsoft.bcl.asyncinterfaces.nuspec",
         "useSharedDesignerContext.txt"
+      ]
+    },
+    "ReaLTaiizor/3.8.1.1": {
+      "sha512": "AiqhC/i5ySAbMICg93u8TtobxEtHGLi0VOzIZdKcxNd3eVEqmlbxT+sRHfoeNsMGKIN3guPAVKffn7I5o6s5Qg==",
+      "type": "package",
+      "path": "realtaiizor/3.8.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.MD",
+        "Taiizor.png",
+        "lib/net48/ReaLTaiizor.dll",
+        "lib/net48/ReaLTaiizor.xml",
+        "lib/net481/ReaLTaiizor.dll",
+        "lib/net481/ReaLTaiizor.xml",
+        "lib/net6.0-windows7.0/ReaLTaiizor.dll",
+        "lib/net6.0-windows7.0/ReaLTaiizor.xml",
+        "lib/net7.0-windows7.0/ReaLTaiizor.dll",
+        "lib/net7.0-windows7.0/ReaLTaiizor.xml",
+        "lib/net8.0-windows7.0/ReaLTaiizor.dll",
+        "lib/net8.0-windows7.0/ReaLTaiizor.xml",
+        "lib/net9.0-windows7.0/ReaLTaiizor.dll",
+        "lib/net9.0-windows7.0/ReaLTaiizor.xml",
+        "lib/netcoreapp3.1/ReaLTaiizor.dll",
+        "lib/netcoreapp3.1/ReaLTaiizor.xml",
+        "realtaiizor.3.8.1.1.nupkg.sha512",
+        "realtaiizor.nuspec"
       ]
     },
     "System.IO.Pipelines/9.0.0": {
@@ -476,6 +635,9 @@
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
+      "Magick.NET-Q8-AnyCPU >= 14.5.0",
+      "Magick.NET.Core >= 14.5.0",
+      "ReaLTaiizor >= 3.8.1.1",
       "YoutubeExplode >= 6.5.0",
       "YoutubeExplode.Converter >= 6.5.0"
     ]
@@ -488,11 +650,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ecarrizales\\edgar\\app\\winToolZeroX\\winToolZeroX\\winToolZeroX.csproj",
+      "projectUniqueName": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\zeroxtools\\winToolZeroX\\winToolZeroX.csproj",
       "projectName": "winToolZeroX",
-      "projectPath": "C:\\Users\\ecarrizales\\edgar\\app\\winToolZeroX\\winToolZeroX\\winToolZeroX.csproj",
+      "projectPath": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\zeroxtools\\winToolZeroX\\winToolZeroX.csproj",
       "packagesPath": "C:\\Users\\ecarrizales\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ecarrizales\\edgar\\app\\winToolZeroX\\winToolZeroX\\obj\\",
+      "outputPath": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\zeroxtools\\winToolZeroX\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -534,6 +696,18 @@
       "net8.0-windows7.0": {
         "targetAlias": "net8.0-windows",
         "dependencies": {
+          "Magick.NET-Q8-AnyCPU": {
+            "target": "Package",
+            "version": "[14.5.0, )"
+          },
+          "Magick.NET.Core": {
+            "target": "Package",
+            "version": "[14.5.0, )"
+          },
+          "ReaLTaiizor": {
+            "target": "Package",
+            "version": "[3.8.1.1, )"
+          },
           "YoutubeExplode": {
             "target": "Package",
             "version": "[6.5.0, )"
