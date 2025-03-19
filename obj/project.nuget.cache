@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "68GBJoIPcUk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ecarrizales\\edgar\\app\\winToolZeroX\\winToolZeroX\\winToolZeroX.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ecarrizales\\.nuget\\packages\\anglesharp\\1.1.2\\anglesharp.1.1.2.nupkg.sha512",
+    "C:\\Users\\ecarrizales\\.nuget\\packages\\cliwrap\\3.6.7\\cliwrap.3.6.7.nupkg.sha512",
+    "C:\\Users\\ecarrizales\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.0\\microsoft.bcl.asyncinterfaces.9.0.0.nupkg.sha512",
+    "C:\\Users\\ecarrizales\\.nuget\\packages\\system.io.pipelines\\9.0.0\\system.io.pipelines.9.0.0.nupkg.sha512",
+    "C:\\Users\\ecarrizales\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512",
+    "C:\\Users\\ecarrizales\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",
+    "C:\\Users\\ecarrizales\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512",
+    "C:\\Users\\ecarrizales\\.nuget\\packages\\system.threading.tasks.extensions\\4.6.0\\system.threading.tasks.extensions.4.6.0.nupkg.sha512",
+    "C:\\Users\\ecarrizales\\.nuget\\packages\\youtubeexplode\\6.5.0\\youtubeexplode.6.5.0.nupkg.sha512",
+    "C:\\Users\\ecarrizales\\.nuget\\packages\\youtubeexplode.converter\\6.5.0\\youtubeexplode.converter.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
